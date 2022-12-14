@@ -11,4 +11,13 @@ var numeros = [1, 2, 3];
 numeros.map(function(valor){
     return valor * 2;
 });
-numeros.map( valor =>);
+numeros.map( valor => valor * 2);
+
+class Matematica{
+    soma(x, y){
+        return x + y;
+    }
+}
+
+var n1: string ='teste';
+var n2: number = 123; 
